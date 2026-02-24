@@ -1,2 +1,0 @@
-Test git demo status
-Testing teh demo by updating from visual studio code to Github
